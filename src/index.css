@@ -1,0 +1,255 @@
+@media (min-width: 769px) {
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  .login{
+    background-color: gray;
+    width: 17em;
+    height: 21em;
+    border-radius: 16px;
+    text-align: center;
+    margin-left: 30em;
+    
+
+  }
+  .Input-IconEmail{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -1em;
+
+  }
+  .Input-IconSenha{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -0.2em;
+  }
+  #fundo{
+    background-image: url(Fundo.png);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 76.45em;
+    height: 37.4em;
+    
+  }
+  #email{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #password{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 2.6em;
+    background-image: url(Logo.png);
+  }
+  #letreiro{
+    margin-bottom: 0em;
+    color: red;
+  }
+  #letreiroadm{
+    margin-bottom: 1.2em;
+    color: white;
+  }
+  #esqueceuSenha{
+  font-size: 10px;
+  margin-left: 8em;
+  }
+  #esqueceuEmail{
+    font-size: 10px;
+    margin-left: 8em;
+  }
+  #password{
+    margin-top: 1em;
+  }
+  #BotaoEntrar{
+    background-color: red; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    font-size: 16px;
+    border: none;
+    width: 4.5em;
+    height: 2em;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 0.6em;
+    transition: background-color 0.3s ease
+  }
+  #BotaoEntrar:hover{
+    background-color: black;
+  }
+}
+@media (max-width: 376px){
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  .login{
+    background-color: gray;
+    width: 17em;
+    height: 21em;
+    border-radius: 16px;
+    text-align: center;
+    margin-left: 3em;
+    
+
+  }
+  .Input-IconEmail{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -1em;
+
+  }
+  .Input-IconSenha{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -0.2em;
+  }
+  #fundo{
+    background-image: url(Fundo.png);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 28em;
+    height: 42em;
+    
+  }
+  #email{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #password{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 2.6em;
+    background-image: url(Logo.png);
+  }
+  #letreiro{
+    margin-bottom: 0em;
+    color: red;
+  }
+  #letreiroadm{
+    margin-bottom: 1.2em;
+    color: white;
+  }
+  #esqueceuSenha{
+  font-size: 10px;
+  margin-left: 8em;
+  }
+  #esqueceuEmail{
+    font-size: 10px;
+    margin-left: 8em;
+  }
+  #password{
+    margin-top: 1em;
+  }
+  #BotaoEntrar{
+    background-color: red; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    font-size: 16px;
+    border: none;
+    width: 4.5em;
+    height: 2em;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 0.6em;
+    transition: background-color 0.3s ease
+  }
+  #BotaoEntrar:hover{
+    background-color: black;
+  }
+}
+@media (max-width: 768px){
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  .login{
+    background-color: gray;
+    width: 17em;
+    height: 21em;
+    border-radius: 16px;
+    text-align: center;
+    margin-left: 10em;
+    
+
+  }
+  .Input-IconEmail{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -1em;
+
+  }
+  .Input-IconSenha{
+    position: absolute;
+    margin-left: -1em;
+    margin-top: -0.2em;
+  }
+  #fundo{
+    background-image: url(Fundo.png);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 35em;
+    height: 36.8em;
+    
+  }
+  #email{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #password{
+    text-align: center;
+    border-radius: 1em;
+  }
+  #logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 2.6em;
+    background-image: url(Logo.png);
+  }
+  #letreiro{
+    margin-bottom: 0em;
+    color: red;
+  }
+  #letreiroadm{
+    margin-bottom: 1.2em;
+    color: white;
+  }
+  #esqueceuSenha{
+  font-size: 10px;
+  margin-left: 8em;
+  }
+  #esqueceuEmail{
+    font-size: 10px;
+    margin-left: 8em;
+  }
+  #password{
+    margin-top: 1em;
+  }
+  #BotaoEntrar{
+    background-color: red; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    font-size: 16px;
+    border: none;
+    width: 4.5em;
+    height: 2em;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 0.6em;
+    transition: background-color 0.3s ease
+  }
+  #BotaoEntrar:hover{
+    background-color: black;
+  }
+}
